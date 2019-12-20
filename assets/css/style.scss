@@ -1,0 +1,46 @@
+---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+---
+
+// Font
+@import url('https://fonts.googleapis.com/css?family=Lora:400|Open+Sans:400,700');
+
+// Bootstrap
+@import 'bootstrap/functions';
+@import 'bootstrap-variables';
+@import 'bootstrap/variables';
+@import 'bootstrap/mixins';
+@import 'bootstrap/root';
+@import 'bootstrap/reboot';
+@import 'bootstrap/grid';
+@import 'bootstrap/type';
+@import 'bootstrap/tables';
+@import 'bootstrap/utilities';
+
+// Libraries
+@import 'libraries/hamburgers/hamburgers';
+
+// Components
+@import 'components/page';
+@import 'components/header';
+@import 'components/footer';
+@import 'components/sub-footer';
+@import 'components/logo';
+@import 'components/main-menu';
+@import 'components/main-menu-mobile';
+@import 'components/social';
+@import 'components/hamburger';
+@import 'components/buttons';
+@import 'components/title';
+@import 'components/content';
+@import 'components/intro';
+@import 'components/strip';
+@import 'components/whitebox';
+@import 'components/feature';
+
+// Pages
+@import 'pages/home';
+@import 'pages/team/team-list';
+@import 'pages/team/team-summary';
+@import 'pages/team/page-team-list';

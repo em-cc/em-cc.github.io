@@ -1,0 +1,29 @@
+baseurl: ''
+exclude: ['README.md']
+permalink: pretty
+title: 'EMCC'
+
+collections:
+  omniwidgets:
+    output: true
+    permalink: /omniwidgets/:path/
+  team:
+    output: true
+    permalink: /team/:path/
+
+defaults:
+  - scope:
+      type: services
+    values:
+      layout: service
+      bodyClass: page-services-single
+  - scope:
+      path: 'images'
+    values:
+      image: true
+
+sass:
+  style: compact # possible values: nested expanded compact compressed
+
+plugins:
+  - jekyll-environment-variables
