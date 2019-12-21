@@ -1,6 +1,6 @@
 # EMCC's official web-site
 
-Serif is a beautiful small business theme for Jekyll. It contains content types for the archetypical small business website. The theme is fully responsive, blazing fast and artfully illustrated.
+EMCC uses [Jekyll Ruby engine](https://jekyllrb.com/) for the content management and Serif as a page layout theme. Every update to this repository automatically updates the web-site by [GitHub's magic](https://pages.github.com/). If you see a misspelled word or have an idea for the website shoot us a merge request or open an issue ticket.
 
 [Demo at GitHub](https://em-cc.github.io/)
 
