@@ -13,7 +13,7 @@ collections:
 
 defaults:
   - scope:
-      type: services
+      type: omniwidgets
     values:
       layout: service
       bodyClass: page-services-single
