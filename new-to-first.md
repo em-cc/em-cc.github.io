@@ -33,7 +33,7 @@ Off-season events like EMCC provide FRC teams a chance to continue their team an
 
 The competition begins with qualification matches, with a match running about every 8-9 minutes. In each match, two “alliances” of three teams each compete on the field at a time. One alliance has red bumpers on their robots, the other alliance uses blue bumpers. The three teams on each alliance work together to accumulate more points during the match than the other alliance, and the overall win/loss records and other on-field performance aspects of each individual team determine their qualification ranking. Watch the video below of a match from the most recent FRC season game:
 
-<span class="embed-youtube" style="text-align:center; display: block;"><iframe class="youtube-player" type="text/html" src="https://www.youtube.com/embed/xB5rdEZk8io?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent" allowfullscreen="true" style="border:0;" width="840" height="473"></iframe></span>
+[![YouTube Video](https://img.youtube.com/vi/xB5rdEZk8io/0.jpg)](http://www.youtube.com/watch?v=xB5rdEZk8io)
 
 Each team in the competition competes in 6-10 randomly assigned qualification matches (depends on the total number of teams in the competition), with different alliance partners and opponents in each match.
 
