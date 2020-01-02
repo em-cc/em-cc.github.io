@@ -11,3 +11,7 @@ EMCC uses [Jekyll Ruby engine](https://jekyllrb.com/) for the content management
 To run or edit the web-site locally, clone this repository into a local directory, navigate to that directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
 
 Refer to Jekyll's [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) and other Jekyll's documentation to learn Jekyll.
+
+## Read more
+
+[Custom domains at GitHub](https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site)
