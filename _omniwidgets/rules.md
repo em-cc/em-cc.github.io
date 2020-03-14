@@ -1,5 +1,5 @@
 ---
-title: 'Rules for 2019 Season'
+title: 'Rules for 2020 Season'
 ---
 
 As we wait for the 2020 Season to get underway, rules are still TBD… but here are the rules from 2019 for reference
