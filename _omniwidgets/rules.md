@@ -2,9 +2,9 @@
 title: 'Rules for 2019 Season'
 ---
 
-As we wait for the 2019 Season to get underway, rules are still TBD… but here are the rules from 2018 for reference
+As we wait for the 2020 Season to get underway, rules are still TBD… but here are the rules from 2019 for reference
 
-## 2018 Rules – Inspections
+## 2019 Rules – Inspections
 
 As these types of events are used for training purposes (to bring new volunteers up to speed for next year’s competition season), we encourage you to ask for robot inspections but they are completely optional.
 
