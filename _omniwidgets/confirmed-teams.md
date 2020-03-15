@@ -2,9 +2,17 @@
 title: 'Confirmed Teams'
 ---
 
-28 of 30 spots filled.
+0 of 30 spots filled.
+For information on how to enroll please
+[contact us]({{ site.baseurl }}{% link contact.html %})
 
 ## These are the teams confirmed
+
+| Team | Team Name |
+| ---- | ------------------------ |
+| 0000 | Your team could be here  |
+
+## These are the teams competed in 2019
 
 | Team | Team Name |
 | ---- | ------------------------ |
