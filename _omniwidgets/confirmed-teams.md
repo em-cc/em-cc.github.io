@@ -6,7 +6,7 @@ title: 'Confirmed Teams'
 For information on how to enroll please
 [contact us]({{ site.baseurl }}{% link contact.html %})
 
-## These are the teams confirmed
+## These are the teams confirmed for 2021
 
 | Team | Team Name |
 | ---- | ------------------------ |
