@@ -26,19 +26,6 @@ During load in please be sure to stay on the mats as to not scratch the floors. 
 
 * * *
 
-## Special Awards
-
-This year we will have some extra awards with cash prizes, similar to the awards handed out during normal competitions:
-
-[**Mentor Moment Award**](https://docs.google.com/document/d/1jX1g8usgLIDpW57jyuR6pu95442ZH9iUzim1SN7ZIY4) ($100 giftcard for mentors personal use):
-
-[**Student Moment Award**](https://docs.google.com/document/d/1snd2MWW-RjLzI3h12SAsby51I9VC32yGjXEGoCuMXRs) (100$ VISA giftcard for team tools/parts):
-
-[**EMCC Pit Award**](https://docs.google.com/document/d/1jpE8Qj9MhRL2sMfpYMhCMymoY-WX465L3Od6N28z-PE) (100$ VISA giftcard for team tools/parts):
-
-[**EMCC Best Cheer Award**](https://docs.google.com/document/d/1DuwmPlYKYQjlGCoU1hGYMMjob0o2xPONYSK_Rfj-hLI) (100$ VISA giftcard for team tools/parts):
-
-* * *
 
 ## Things to Remember
 
