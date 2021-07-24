@@ -16,7 +16,7 @@ Load in access is via doors at the gym floor level indicated on the map below.  
 
 Preferred Human access is via the doors labeled “ACTIVITY ENTRANCE”, but the load-in doors will also be open.
 
-The shop will be open on an as needed basis (not the whole time). During load in please be sure to stay on the mats as to not scratch them. Please reference the parking map below for load and parking information.
+During load in please be sure to stay on the mats as to not scratch the floors. Please reference the parking map below for load and parking information.
 
 ![](/images/day-info/map1.png)
 
@@ -42,13 +42,9 @@ This year we will have some extra awards with cash prizes, similar to the awards
 
 ## Things to Remember
 
+The shop will be open on an as needed basis (not the whole time).
+
 We will have a carpeted driving practice field area – the size is TBD, as is the availability of field elements. Don’t assume we’ll have an autonomous-ready-setup, but you will be able to drive your bots there.
-
-We will be offering two shirt options (T for $10) and Raglan for ($20) and an EMCC pennant ($8) – see them here:
-
-![](/images/day-info/sample-raglan.jpg) ![](/images/day-info/sample-tee.jpg)
-
-![](/images/day-info/sample-pennant.jpg)
 
 There will be inexpensive concessions – please take advantage of these so we can invest in making this event even better next year.
 
@@ -74,5 +70,3 @@ No pit tables provided – so please bring your own table if needed.
 As these events are used for training purposes – to bring new volunteers up to speed for next years competition season, we encourage you to ask for robot inspections but they are completely optional. We know some teams have been working on improving robots over the summer, please feel free to use this event as an opportunity to see how these mods work in real gameplay. You still can’t violate any game rules, but rules compliance is honor-system based. As usual weight restrictions are lax also. This event is more about having fun and introducing new team members and the public to FIRST.
 
 There will be access to a shop with tools – it will be ‘open as needed’ so if you need help with something see pit admin and they will direct you how to get there and get someone to help navigate and find things.
-
-Thanks to the wildly popular Mentor Match done at the Gitch, we will shamelessly copy this at the end the day.
