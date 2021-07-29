@@ -1,5 +1,5 @@
 ---
-title: faqs
+title: FAQs
 layout: md-page
 bodyClass: page-dayinfo
 ---
