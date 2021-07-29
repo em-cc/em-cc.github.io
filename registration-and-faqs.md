@@ -1,5 +1,5 @@
 ---
-title: Day of Event Information
+title: Registration and FAQs
 layout: md-page
 bodyClass: page-dayinfo
 ---
