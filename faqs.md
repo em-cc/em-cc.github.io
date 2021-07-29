@@ -1,5 +1,5 @@
 ---
-title: Registration and FAQs
+title: faqs
 layout: md-page
 bodyClass: page-dayinfo
 ---
