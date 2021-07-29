@@ -10,3 +10,4 @@ To register for EMCC, click through this link to provide contact information. [S
 
 Should EMCC be cancelled (e.g. due to Covid), your registration fee will be refunded. If a team is prevented from attending EMCC due to rules put in place by their school district, that team’s registration will be refunded.
 
+{% include button.html %}
