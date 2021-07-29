@@ -11,6 +11,8 @@ For information on how to enroll please
 | Team | Team Name |
 | ---- | ------------------------ |
 | 0000 | Your team could be here  |
+| 1816 | The Green Machine        |
+| 3130 | The ERRORS               |
 
 ## These are the teams competed in 2019
 
