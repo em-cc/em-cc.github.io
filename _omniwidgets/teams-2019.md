@@ -9,7 +9,7 @@ We had 28 fabulous teams participating that year.
 For information on how to enroll please refer to the
 [Registration page]({{ site.baseurl }}{% link registration.md %})
 
-
+{: .table .table-striped}
 | Team | Team Name |
 | ---- | ------------------------ |
 | 1816 | The Green Machine        |
