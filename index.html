@@ -12,6 +12,7 @@ bodyClass: page-home
     <h2>Save the date, September 18th</h2>
     <p>EM-CC 2021 will take place on 09/18/2021 in East Ridge High School's gymnasium,
       Woodbury, MN.</p>
+    <p><a href="{{site.baseurl}}/registration/" class="button">Registration Information</a></p>
   </div>
 </div>
 
@@ -35,6 +36,8 @@ bodyClass: page-home
     <div class="col-12">
       <h2 class="title-3 text-dark mb-3">Quick Links</h2>
     </div>
+  </div>
+  <div class="row">
     {% for service in site.omniwidgets %}
     <div class="col-12 col-md-4 mb-1">
       <div class="service service-summary">
@@ -50,13 +53,13 @@ bodyClass: page-home
   </div>
 </div>
 
-<div class="container pt-5 pb-5 pt-md-7 pb-md-7">
+<div class="container py-5 py-md-7">
   <div class="row justify-content-center">
     <div class="col-12">
       <h2 class="title-3 text-dark mb-4">Hosting Teams</h2>
     </div>
     {% for feature in site.data.features %}
-    <div class="col-12 col-md-6 col-lg-3 mb-2">
+    <div class="col-12 col-md-6 col-lg-4 mb-2">
       <div class="feature">
         {% if feature.image %}<div class="feature-image">
           <a href="{{ feature.url }}"><img alt="{{ feature.title }} logo" src="{{ feature.image }}" /></a></div> {% endif %}
