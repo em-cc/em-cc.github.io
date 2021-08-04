@@ -14,4 +14,6 @@ For information on how to enroll please refer to
 | Team | Team Name |
 | ---- | ------------------------ |
 | 1816 | The Green Machine        |
+| 2502 | Talon Robotics     |
 | 3130 | The ERRORS               |
+| 7021 | TC Robotics     |
