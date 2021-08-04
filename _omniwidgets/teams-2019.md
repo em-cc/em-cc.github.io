@@ -4,7 +4,7 @@ layout: md-page
 bodyClass: page-dayinfo
 ---
 
-There was no EM-CC in 2020. The previous event was in 2019.
+There was no EMCC in 2020. The previous event was in 2019.
 We had 28 fabulous teams participating that year.
 For information on how to enroll please refer to the
 [Registration page]({{ site.baseurl }}{% link registration.md %})
