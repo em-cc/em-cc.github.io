@@ -14,6 +14,9 @@ For information on how to enroll please refer to
 | Team | Team Name |
 | ---- | ------------------------ |
 | 1816 | The Green Machine        |
+| 2175 | Fighting Calculators     |
 | 2502 | Talon Robotics     |
 | 3130 | The ERRORS               |
+| 3928 | Team Neutrino            |
+| 4859 | The CyBears              |
 | 7021 | TC Robotics     |
