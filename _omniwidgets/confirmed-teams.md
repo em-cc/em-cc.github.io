@@ -4,7 +4,7 @@ layout: md-page
 bodyClass: page-dayinfo
 ---
 
-4 of 30 spots filled. Enrollment is now open.
+7 of 30 spots filled. Enrollment is now open.
 For information on how to enroll please refer to
 [Registration page]({{ site.baseurl }}{% link registration.md %})
 
