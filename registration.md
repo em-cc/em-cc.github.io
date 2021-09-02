@@ -4,30 +4,18 @@ layout: md-page
 bodyClass: page-dayinfo
 ---
 
-Registration is $250
+## No registration fee for 2021!
 
-To register for EMCC, click through this link to provide contact information.
+Just show up and play - **whenever and for as long as fits your schedule.** If you can, let us know you are coming as it would help us plan better: [emailemcc@gmail.org](mailto:emailemcc@gmail.org)
 
-<p>
-<a href="https://forms.gle/zVPKr31X3Y4DL3EL8" class="button">Teams Registration Form</a>
-</p>
+Although very unlikely, **please check back to this page before arriving:** There is a chance **policy could change which cancels the event**, but as of now there are no restrictions, and we are a go!
 
-You will receive an email within a few days confirming receipt along with where to send your registration payment. If you need an invoice please send a note to emailemcc@gmail.org. Our default is to not provide an invoice, so please ask if you need one.
+# Volunteering:
 
-Should EMCC be cancelled (e.g. due to Covid), your registration fee will be refunded. If a team is prevented from attending EMCC due to rules put in place by their school district, that team’s registration will be refunded.
-
-This event will store and livestream audio, video and still images that may include anyone attending the event. By entering this event you agree to this.
-
-{% include button.html %}
-
-# Volunteering
-
-Volunteers are critical to the success of any tournament. This year the EMCC are asking that all competing teams commit to have two people volunteer at the event. The volunteer slots range in time from 2 hours to 4 hours. Please ask parents of your team members to go to the following signup genius link and sign up for a volunteer slot. We need, approximately, 60 volunteers this is only 2 from each team. Visiting teams do not need to volunteer for Friday night set up or Saturday evening break down.
-
-Thank you
-
-If you have questions about volunteering email – emcccoordinator@gmail.com
+We may recruit random students and adults to help out with field reset or lunch (if we decide to offer lunch given the low attendance.) No obligation for you to help, but that won't stop us from asking! There is a signup genius if you can 'promise' us some time.
 
 <p>
 <a href="https://www.signupgenius.com/go/508084CA9A62BA5FC1-emcc5" class="button">Volunteers Sugnup Genius</a>
 </p>
+
+And you can contact our volunteer coordinator here: [emcccoordinator@gmail.com](mailto:emcccoordinator@gmail.com)

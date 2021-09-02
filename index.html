@@ -7,43 +7,46 @@ bodyClass: page-home
 <div class="intro pb-4">
   <div class="container">
     <h1>{{ page.title }}</h1>
-    <p>EMCC is open to the public & admission is FREE…
-      spectators are welcome to attend and enjoy the action!</p>
+    <p>EMCC is open to the public & admission is FREE…</p>
+    <p>Entirely a <b>FREE service to the FIRST community,
+       EMCC 2021 has a goal of providing a zero-barrier event with a genuine FIRST field staffed by real FTAs
+       and CSAs for teams of any size or capability to attend at their own pace and availability.</b></p>
     <h2>Save the date, September 18th</h2>
-    <p>EMCC 2021 will take place on 09/18/2021 in East Ridge High School's gymnasium,
-      Woodbury, MN.</p>
-    <p><a href="{{site.baseurl}}/registration/" class="button">Registration Information</a></p>
+    <p>EMCC 2021 will take place on 09/18/2021 in East Ridge High School's gymnasium, Woodbury, MN.
+      <a href="{{site.baseurl}}/faqs/">See FAQs page</a> for more details.
+    </p>
   </div>
 </div>
 
 <div class="container">
   <div class="row">
-    <div class="col-12 col-lg-6">
+    <div class="col-9">
+    <p>EMCC will be run as an open house event for 2021.
+       <b>Any team with a robot and a couple hours is welcome to stop by and play with other teams in a practice match style event.
+          There is no cost for any team to attend.</b>
+        If you can attend and have a minute: please send a note to <a href="mailto:emailemcc@gmail.com">emailemcc@gmail.com</a>
+        as it will help us plan.
+        In this open house format we may not be able to offer lunch, but many options exist in our area.
+        We will have limited and inexpensive concessions.</p>
+
+    <p><a href="{{site.baseurl}}/registration/" class="button">Registration Information</a></p>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-6">
       <h2>Covid 19 Policy</h2>
       <p>For the health and safety of everyone attending EMCC, we will conform to school
          district 833 Covid 19 requirements on the day of the event.  At this time there
          are no requirements in place but this may change.  Please refer to this entry of
          the website for the most current information.</p>
     </div>
-    <div class="col-6">
+    <div class="col-12 col-md-6">
       <h2>Recording policy</h2>
       <p>This event will store and livestream audio, video and still images that may
          include anyone attending the event. By entering this event you agree to this.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container pt-2">
-  <div class="call">
-    <div class="call-box-top">
-      <div class="call-email"><strong>Email: </strong>
-        <a href="mailto:{{ site.data.contact.email }}">
-          {{ site.data.contact.email }}
-        </a>
-      </div>
-    </div>
-    <div class="call-box-bottom">
-      <a href="https://forms.gle/hH8XmZLb2usrX2AGA" class="button">Sign Up</a>
     </div>
   </div>
 </div>
@@ -56,13 +59,13 @@ bodyClass: page-home
   </div>
   <div class="row">
     {% for service in site.omniwidgets %}
-    <div class="col-12 col-md-4 mb-1">
+    <div class="col-12 col-md-6 mb-1">
       <div class="service service-summary">
         <div class="service-content">
           <h2 class="service-title">
             <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
           </h2>
-          {{ service.content | markdownify | strip_html | truncate: 160 }}
+          {{ service.content | markdownify | strip_html | truncate: 233 }}
         </div>
       </div>
     </div>

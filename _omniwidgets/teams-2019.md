@@ -1,5 +1,5 @@
 ---
-title: 'Teams competed in 2019'
+title: 'EMCC 2019'
 layout: md-page
 bodyClass: page-dayinfo
 ---

@@ -4,6 +4,8 @@ layout: md-page
 bodyClass: page-dayinfo
 ---
 
+Be aware: With many teams ravaged by circumstances beyond their control, EMCC will have a unique format for 2021: An open house free for all. Expect chaos and things to be different than previous years - as an open house format, come with low expectations for organization and high unpredictability, including TBD (i.e. limited) food offerings and no valet parking ;)
+
 ## Driving to East Ridge
 
 For those driving trailers, be advised we strongly urge you to use the **BAILEY ROAD** entrance to the school.  We are planning pull-through parking which is MUCH easier to access from the Bailey Road entrance.  Additionally, East Ridge is surrounded by roundabouts, entering via Bailey Road bypasses most of the roundabouts.
@@ -38,6 +40,8 @@ There will be inexpensive concessions – please take advantage of these so we c
 * * *
 
 ## Menu Highlights:
+
+We won’t promise the same food options (or even the ones listed below) and what we offer may be more limited but there are options close by in the unlikely event we can’t run lunch due to unknown turnout. We will have concessions – but again these may be limited. Thus: Feel free to ‘pack in’ whatever you want this year. We don’t mind.
 
 EMCC concessions in 2019 include pizza for lunch at $3 per slice or two slices for $5.
 * Gluten free pizza will be available.
