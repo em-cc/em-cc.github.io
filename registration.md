@@ -12,7 +12,7 @@ Although very unlikely, **please check back to this page before arriving:** Ther
 
 # Volunteering:
 
-We may recruit random students and adults to help out with field reset or lunch (if we decide to offer lunch given the low attendance.) No obligation for you to help, but that won't stop us from asking! There is a signup genius if you can 'promise' us some time.
+We may recruit random students and adults to help out with field reset or other tasks. No obligation for you to help, but that won’t stop us from asking! There is a signup genius if you can ‘promise’ us some time in advance.
 
 <p>
 <a href="https://www.signupgenius.com/go/508084CA9A62BA5FC1-emcc5" class="button">Volunteers Sugnup Genius</a>

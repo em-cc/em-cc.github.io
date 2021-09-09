@@ -41,12 +41,7 @@ There will be inexpensive concessions – please take advantage of these so we c
 
 ## Menu Highlights:
 
-We won’t promise the same food options (or even the ones listed below) and what we offer may be more limited but there are options close by in the unlikely event we can’t run lunch due to unknown turnout. We will have concessions – but again these may be limited. Thus: Feel free to ‘pack in’ whatever you want this year. We don’t mind.
-
-EMCC concessions in 2019 include pizza for lunch at $3 per slice or two slices for $5.
-* Gluten free pizza will be available.
-* Canned pop is $1 as is candy and other stuff.
-* We’ll also have vendors (setting their own prices) for mini donuts and Maui Wowi drinks including hot and iced coffee.
+We will have canned pop and candy and other stuff for concessions but no lunch options.  Feel free to ‘pack in’ whatever you want this year. We don’t mind.  Although we asked our mini donut and Maui Wowi vendors to attend, we predict they will not due to the much lower predicted attendance.
 
 * * *
 
