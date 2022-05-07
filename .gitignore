@@ -26,3 +26,6 @@ Gemfile.lock
 .idea/
 .xml
 .iml
+
+# Ruby bundle and gems are sourced from Gemfile
+.bundle/

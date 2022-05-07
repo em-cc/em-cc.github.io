@@ -4,7 +4,6 @@ layout: md-page
 bodyClass: page-dayinfo
 ---
 
-Be aware: With many teams ravaged by circumstances beyond their control, EMCC will have a unique format for 2021: An open house free for all. Expect chaos and things to be different than previous years - as an open house format, come with low expectations for organization and high unpredictability, including TBD (i.e. limited) food offerings and no valet parking ;)
 
 ## Driving to East Ridge
 
@@ -41,7 +40,12 @@ There will be inexpensive concessions – please take advantage of these so we c
 
 ## Menu Highlights:
 
-We will have canned pop and candy and other stuff for concessions but no lunch options.  Feel free to ‘pack in’ whatever you want this year. We don’t mind.  Although we asked our mini donut and Maui Wowi vendors to attend, we predict they will not due to the much lower predicted attendance.
+2022 EMCC concessions are TBD for now. As an FYI:
+
+EMCC concessions in 2019 included pizza for lunch at $3 per slice or two slices for $5.
+* Gluten free pizza will be available.
+* Canned pop is $1 as is candy and other stuff.
+* We’ll also have vendors (setting their own prices) for mini donuts and Maui Wowi drinks including hot and iced coffee.
 
 * * *
 

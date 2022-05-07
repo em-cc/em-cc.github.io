@@ -4,9 +4,12 @@ layout: md-page
 bodyClass: page-dayinfo
 ---
 
-## No registration fee for 2021!
+## Registration form for 2022
 
-Just show up and play - **whenever and for as long as fits your schedule.** If you can, let us know you are coming as it would help us plan better: [emailemcc@gmail.org](mailto:emailemcc@gmail.org)
+Please fill out the registration form by clicking the link below to register your team to participate in the East Metro Collaborative Competition on Sept 24th, 2022.  Remember that your registration is only tentative until we receive payment.  Thanks!
+<p>
+<a href="https://docs.google.com/forms/d/1FplJOGrNa87uXhgK_9pOq0Wv0bHd76vWhGk5JbpoFC4/viewform?chromeless=1&edit_requested=true&pli=1" class="button">Team registration form at Google</a>
+</p>
 
 Although very unlikely, **please check back to this page before arriving:** There is a chance **policy could change which cancels the event**, but as of now there are no restrictions, and we are a go!
 

@@ -1,13 +1,11 @@
 ---
-title: 'Rules for 2021 Season'
+title: 'Rules for 2022 Season'
 layout: md-page
 bodyClass: page-dayinfo
 ---
 
-Three rules:
-1. No score tracking, so no banners for this EMCC.
-2. Bring a robot that might work.
-3. Drive as much as you want, using whomever wants to drive.
-4. (yes, we can’t count to three.) If you happened to install a flamethrower, ax thrower or bowling ball launcher in the off season, let’s leave those at home.
+Rules:
+1. All FRC Rapid React rules apply at the moment.
+2. Fun off-season addendums may be introduced soon. Please stay tuned.
 
 
