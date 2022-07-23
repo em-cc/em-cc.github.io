@@ -16,12 +16,12 @@ Each year, FIRST designs a completely new game and field for FRC teams to compet
 
 This is a great video from FIRST describing FRC and the student experience:
 
-[![YouTube Video](https://img.youtube.com/vi/wSA6InzFAZE/0.jpg)](http://www.youtube.com/watch?v=wSA6InzFAZE)
+[![YouTube Video](https://img.youtube.com/vi/wSA6InzFAZE/0.jpg)](https://www.youtube.com/watch?v=wSA6InzFAZE)
 
 
-Watch the video animation below explaining the most recent FRC game theme…**Destination Deep Space!**
+Watch the video animation below explaining the most recent FRC game theme…**RAPID REACT**
 
-[![YouTube Video](https://img.youtube.com/vi/Mew6G_og-PI/0.jpg)](http://www.youtube.com/watch?v=Mew6G_og-PI)
+[![YouTube Video](https://img.youtube.com/vi/LgniEjI9cCM/0.jpg)](https://www.youtube.com/watch?v=LgniEjI9cCM)
 
 ## Soooo…what is EMCC then?
 
@@ -33,7 +33,7 @@ Off-season events like EMCC provide FRC teams a chance to continue their team an
 
 The competition begins with qualification matches, with a match running about every 8-9 minutes. In each match, two “alliances” of three teams each compete on the field at a time. One alliance has red bumpers on their robots, the other alliance uses blue bumpers. The three teams on each alliance work together to accumulate more points during the match than the other alliance, and the overall win/loss records and other on-field performance aspects of each individual team determine their qualification ranking. Watch the video below of a match from the most recent FRC season game:
 
-[![YouTube Video](https://img.youtube.com/vi/xB5rdEZk8io/0.jpg)](http://www.youtube.com/watch?v=xB5rdEZk8io)
+[![YouTube Video](https://img.youtube.com/vi/qPkd-jSo-Eo/0.jpg)](https://www.youtube.com/watch?v=qPkd-jSo-Eo)
 
 Each team in the competition competes in 6-10 randomly assigned qualification matches (depends on the total number of teams in the competition), with different alliance partners and opponents in each match.
 

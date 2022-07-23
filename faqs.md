@@ -40,12 +40,11 @@ There will be inexpensive concessions – please take advantage of these so we c
 
 ## Menu Highlights:
 
-2022 EMCC concessions are TBD for now. As an FYI:
+2022 EMCC concessions will include pop and candy and other stuff.
 
-EMCC concessions in 2019 included pizza for lunch at $3 per slice or two slices for $5.
-* Gluten free pizza will be available.
-* Canned pop is $1 as is candy and other stuff.
-* We’ll also have vendors (setting their own prices) for mini donuts and Maui Wowi drinks including hot and iced coffee.
+Although cash is welcome, we will have credit card swipe to improve checkout time.
+
+Lunch will be available from at least two food trucks. They set their own prices and EMCC does not profit from their presence.
 
 * * *
 
@@ -60,6 +59,18 @@ No pit tables provided – so please bring your own table if needed.
 As these events are used for training purposes – to bring new volunteers up to speed for next years competition season, we encourage you to ask for robot inspections but they are completely optional. We know some teams have been working on improving robots over the summer, please feel free to use this event as an opportunity to see how these mods work in real gameplay. You still can’t violate any game rules, but rules compliance is honor-system based. As usual weight restrictions are lax also. This event is more about having fun and introducing new team members and the public to FIRST.
 
 There will be access to a shop with tools – it will be ‘open as needed’ so if you need help with something see pit admin and they will direct you how to get there and get someone to help navigate and find things.
+
+* * *
+
+## Multiple Robots
+
+In the event we have fewer than 30 registered teams, teams may bring second robots to the competition to complete the desired 30 team roster.
+
+Second robots will be entered as first-come-first-serve basis upon arrival to the event on Saturday Morning. There is no charge for additional robots provided they are part of a team which has paid the registration fee.
+
+Secondary robots will be assigned 'dummy' team numbers but otherwise compete as if they were unique teams. As such, primary and secondary robot may be competing at the same time on the same or opposite alliances - and therefore need an independent drive team for each robot.
+
+This is an excellent opportunity to 'test drive' multiple drivers or teams on the same day!
 
 * * *
 

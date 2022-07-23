@@ -13,12 +13,18 @@ Please fill out the registration form by clicking the link below to register you
 
 Although very unlikely, **please check back to this page before arriving:** There is a chance **policy could change which cancels the event**, but as of now there are no restrictions, and we are a go!
 
+# Payment information:
+
+The registration fee for EMCC 2022 is $250 per team. ([see FAQ about multiple robots]({% link faqs.md %}))
+Please send a check as follows:
+
+Payee: East Ridge Robotics Foundation in the amount of $250. **Please write your TEAM NUMBER in the memo line as connecting checks with teams is often difficult.**
+
+Mail check to: 10944 Eagle View Circle, Woodbury, MN 55129. 
+
+
 # Volunteering:
 
-We may recruit random students and adults to help out with field reset or other tasks. No obligation for you to help, but that won’t stop us from asking! There is a signup genius if you can ‘promise’ us some time in advance.
-
-<p>
-<a href="https://www.signupgenius.com/go/508084CA9A62BA5FC1-emcc5" class="button">Volunteers Sugnup Genius</a>
-</p>
+We may recruit random students and adults to help out with field reset or other tasks. No obligation for you to help, but that won’t stop us from asking!  If we need help, we will put out an ask to the contact listed in the registration form.
 
 And you can contact our volunteer coordinator here: [emcccoordinator@gmail.com](mailto:emcccoordinator@gmail.com)
